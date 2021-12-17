@@ -1,0 +1,352 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* .main-h{
+    display: flex;
+} */
+.head-i{
+    font-size: 27;
+    font-weight: bold;
+    margin-top:25px;
+    margin-left: 20px;
+}
+.main{
+    display: flex;
+    margin-left: 15%;
+    margin-top: -23.5px;
+    /* justify-content: space-between; */
+}
+.head-u{
+    font-size: 15px;
+    font-weight: 550;
+    padding-right: 15px;
+}
+.exp{
+    display: flex;
+    margin-left: 67%;
+    font-size: larger;
+}
+.head-q{
+    padding-right: 19px;
+    margin-top: -17px;
+}
+.logo{
+    font-size: 25;
+    margin-left:87% ;
+    display: flex;
+    margin-top: -19px;
+}
+.logo1{
+    margin-right: 16px;
+}
+.logo2{
+    margin-right: 16px;
+}
+.logo3{
+    padding-right: 3px;
+}
+.vid{
+    margin-top: 4%;
+}
+.sam{
+    margin-top: 5%;
+    font-size: 40;
+    font-weight: 750;
+    text-align: center;
+}
+.sam-child{
+    display: flex;
+    font-size: 20; 
+    font-weight: 600;
+    margin-top: 4%;
+    margin-left: 24%;
+}
+.sam-col{
+    margin-right: 50px;
+}
+.img-w{
+    margin-top:2% ;  
+    margin-left: 2%;
+}
+.img-main{
+    display: flex;
+    margin-left: 55%;
+    margin-top: -49.5%;
+}
+.img-q{ 
+    box-shadow: 5px  10px 7px  5px rgba(90, 88, 88, 0.9);;
+    padding: 0px 55px 40px 55px;
+    border-radius: 15px;
+    background-color: rgb(230, 223, 223);
+    margin-right: 5%;
+}
+.para{
+    text-align: center;
+    font-size: 20; 
+    font-weight: 500; 
+}
+.btn2{
+    margin-top: 8%;
+    margin-left: 20%;
+    padding: 10px 25px 10px 25px;
+    background-color: teal;
+    color: white;
+}
+.img-o{
+    box-shadow: 5px  10px 7px  5px rgba(90, 88, 88, 0.9);;
+    padding: 0px 55px 40px 55px;
+    border-radius: 15px;
+    background-color: rgb(230, 223, 223);
+}
+.para1{
+    text-align: center;
+    font-size: 20;
+    font-weight: 500;
+}
+.btn4{
+    margin-top: 8%;
+    margin-left: 20%;
+    padding: 10px 25px 10px 25px;
+    background-color: teal;
+    color: white;
+}
+.img-k{
+    display: flex;
+    margin-left: 55%;
+}
+.img-p{
+    margin-top: 5%;
+    box-shadow: 5px  10px 7px  5px rgba(90, 88, 88, 0.9);;
+    padding: 0px 55px 40px 55px;
+    border-radius: 15px;
+    background-color: rgb(230, 223, 223);
+    margin-right: 5%;
+}
+.para2{
+    text-align: center;
+    font-size: 20;
+    font-weight: 500;
+}
+.btn5{
+    margin-top: 8%;
+    margin-left: 20%;
+    padding: 10px 25px 10px 25px;
+    background-color: teal;
+    color: white;
+}
+.img-l{
+    margin-top: 5%;  
+    box-shadow: 5px  10px 7px  5px rgba(90, 88, 88, 0.9);;
+    padding: 0px 55px 40px 55px;
+    border-radius: 15px;
+    background-color: rgb(230, 223, 223);
+    margin-right: 5%;
+}
+.para3{
+    text-align: center;
+    font-size: 20;
+    font-weight: 500;
+}
+.btn6{
+    margin-top: 5%;
+    margin-left: 20%;
+    padding: 10px 25px 10px 25px;
+    background-color: teal;
+    color: white;
+}
+.mob{
+    margin-top: 10%;
+    font-size: 40;
+    font-weight: 600;
+    text-align: center;
+}
+.flip-main{
+    display: flex;
+    font-size: 20;
+    font-weight: 550;
+    margin-left: 16%;
+    margin-top: 2%;
+}
+.flip{
+    margin-right: 45px;
+}
+.pho{
+    margin-left: 25%;
+    margin-top: 4%;
+}
+.fold{
+    margin-top: 2%;
+    font-size: 45;
+    font-weight: 600;
+    text-align: center;
+}
+.fold2{
+    font-size: 20;
+    text-align: center;
+    margin-top: 1%;
+}
+.fold3{
+    margin-left: 42%;
+    color:black ;
+    font-size: 20;
+    margin-right: 2%;
+}
+.btn7{
+    text-align: center;
+    margin-top: 1%;
+    padding: 10px 20px 10px 20px;
+    border-radius: 45px;
+    background-color: rgb(5, 5, 5);
+    color: white;
+}
+.active{
+    margin-top: 5%;
+    
+}
+.act{
+    font-size: 42;
+    font-weight: 600;
+    color: white;
+    margin-top: -45.5%;
+    text-align: center;
+}
+.act-parent{
+    display: flex;
+    font-size: 22;
+    margin-left: 22.5%;
+    margin-top: 3%;
+}
+.act-p{
+    color: white;
+    margin-right: 40px;
+}
+.pack{
+    color: rgb(250, 250, 250);  
+    font-size: 50;
+    margin-top: 20.7%;
+    margin-left: 63.4%;
+}
+.pack-q{
+    color: white;
+    font-size: 50;
+    font-weight: 600;
+    margin-top: 0%;
+    text-align: center;
+}
+.pack-w{
+    color: white;
+    font-size: 20;
+    margin-left: 45%;
+    margin-right: 2%;
+}
+.btn8{
+    margin-top: 1%;
+    padding: 10px 20px 10px 20px;
+    border-radius: 45px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 16;
+}
+.flex{
+    margin-top: 3%;
+}
+.flex-main{
+    font-size: 42;
+    font-weight: 500;
+    margin-top: -52%;
+    text-align: center;
+    color: rgb(20, 20, 20);
+}
+.flex-parent{
+    display: flex;
+    font-size: 22;
+    font-weight: 550;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.flex-p{
+    margin-right: 35px;
+}
+.xml{
+    font-size: 40;
+    font-weight: 550;
+    text-align: center;
+    margin-top: 23%;
+    color: blanchedalmond;
+}
+.zml{
+    font-size: 22;
+    font-weight: 550;
+    text-align: center;
+    color: blanchedalmond;
+}
+.btn9{
+    padding: 10px 20px 10px 20px;
+    border-radius: 45px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 16;
+    margin-left: 45%;
+    margin-top: 10px;
+}
+.slash{
+    font-size: 40;
+    font-weight: 600;
+    margin-top: 19%;
+    text-align: center;
+}
+.splash{
+    margin-top: 3%;
+}
+.clut{
+    margin-left: 52%;
+    margin-top: -40%;
+}
+.cluster{
+    font-size: 28;
+    font-weight: 600;
+    margin-bottom: 5%;
+}
+.wrap-main{
+    margin-top: 25%;
+    text-align: center;
+}
+.wrap{
+    font-size: 50;
+    font-weight: 600;  
+}
+.search-box  input{
+    font-size: 22;
+    padding: 10px 80px 10px 30px ;
+    border-radius: 35px;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    margin-left: 34%;
+}
+.button-parent{
+    margin-left: 24%;
+}
+.button{
+    padding: 10px;
+    border-radius: 35px;
+    margin-right: 1.5%;
+}
+.btn10{
+    padding: 10px;
+    border-radius: 35px;
+    margin-right: 1.5%;
+    margin-left: 39%;
+    margin-top: 1.5%;
+    margin-bottom: 4%;
+}
+.btn11{
+    padding: 10px;
+    border-radius: 35px;
+    margin-right: 1.2%;
+}
+.image2{
+    margin-top: 1px;
+
+}
